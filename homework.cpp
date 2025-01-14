@@ -3,7 +3,7 @@
 * contains the following procedures to work with lists:
 * display, append, insert, remove, length
 */
-#include "listhelpers.hpp"
+
 
 #include <cstdlib>   // srand, rand
 #include <ctime>     // time
@@ -14,7 +14,9 @@
 int main()
 {
     // Complete your homework here
-
+    int input1 
+    int input2
+void compare(input1, input2) 
     
     return 0;
 }
